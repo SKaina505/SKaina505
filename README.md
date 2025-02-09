@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Learning consistently**
 
-- 🌱 I’m currently learning **Git,C,Python in ALX SE programme**
+- 🌱 I’m currently learning **Data Analytics,Data Engineering,C,Python**
 
 - 👯 I’m looking to collaborate on **projects that solve problems**
 
