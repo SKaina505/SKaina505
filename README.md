@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Aina</h1>
 <h3 align="center">A passionate Data-Developer Guy from Nigeria</h3>
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skaina505" alt="skaina505" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sk_aina_" target="blank"><img src="https://img.shields.io/twitter/follow/sk_aina_?logo=twitter&style=for-the-badge" alt="sk_aina_" /></a> </p>
